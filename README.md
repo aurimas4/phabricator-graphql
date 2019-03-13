@@ -1,5 +1,7 @@
 # phabricator-graphql
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/aurimas4/phabricator-graphql.svg)](https://greenkeeper.io/)
+
 ### Setup
 
 #### Create .env file
